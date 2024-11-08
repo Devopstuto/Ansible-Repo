@@ -1,2 +1,5 @@
 [AppServer]
 172.31.1.193
+
+[AnsibleServer]
+172.31.1.179
